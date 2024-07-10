@@ -376,6 +376,7 @@ This repository also provides one such platforms where contributers come over an
 | [IKnowYou-Mind-Reading-Game](https://github.com/kunjgit/GameZone/tree/main/Games/IKnowYou-Mind-Reading-Game) |
 |[Rock_Paper_Scissors_Neon](https://github.com/kunjgit/GameZone/tree/main/Games/Rock_Paper_Scissors_Neon)|
 |[Beat_a_mole](https://github.com/kunjgit/GameZone/tree/main/Games/Beat_a_mole)|
+| [guess_the_friends_name](https://github.com/kunjgit/GameZone/tree/main/Games/guess_the_friends_name) |
 
 
 
